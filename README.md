@@ -1,6 +1,6 @@
 # Add to Cart
 
-* <a href="https://add-to-cart-user.netlify.app/">Live Preview</a>
+* <a href="https://asarahmed.github.io/Add-to-Cart/">Live Preview</a>
 
 * <a href="https://scrimba.com/scrim/caGkqRH9?pl=pMQBqbdhb">View Scrim</a>
 
